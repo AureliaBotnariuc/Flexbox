@@ -1,0 +1,19 @@
+.flex-container {
+    display:flex;
+    background-color: black;
+    flex-flow: row wrap;
+    height: auto;
+    
+   
+    
+}
+.flex-container > div {
+    background-color: DodgerBlue;
+  color: white;
+  width: 200px;
+  line-height: 150px;
+  margin: 100px;
+  text-align: right;
+  font-size: 120px;
+}
+
